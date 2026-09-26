@@ -65,13 +65,15 @@ Add your JTR evidence screenshots to the **`JTR-Password-Cracking/screenshots/`*
 
 Suggested evidence:
 
-- `01-jtr-installation.png`
-- `02-johnny-configuration.png`
-- `03-pdf-hash-extraction.png`
-- `04-hash-file.png`
-- `05-johnny-attack.png`
-- `06-password-recovered.png`
-- `07-unlocked-pdf.png`
+-<img width="1058" height="698" alt="Screenshot 2026-09-24 101631" src="https://github.com/user-attachments/assets/534c5c0d-640e-4cd0-8dc7-3ffb5edb3f15" />
+-<img width="1976" height="1258" alt="Screenshot 2026-09-26 152920" src="https://github.com/user-attachments/assets/0e9d4921-955f-482e-ba3b-77e49a6af374" />
+-<img width="2398" height="1056" alt="Screenshot 2026-09-26 153053" src="https://github.com/user-attachments/assets/3c6268cc-2f31-4f36-a71c-f8c2e0b6cc36" />
+- <img width="2398" height="1056" alt="Screenshot 2026-09-26 153053" src="https://github.com/user-attachments/assets/a3b3cbce-1d02-4152-8c78-660d380e0e50" />
+-<img width="2134" height="1222" alt="Screenshot 2026-09-26 153239" src="https://github.com/user-attachments/assets/74259b41-bc43-4dc8-a608-88f98a01e748" />
+-<img width="1060" height="708" alt="Screenshot 2026-09-26 153337" src="https://github.com/user-attachments/assets/40df5130-19d3-4239-a8e4-2669cd971e07" />
+-<img width="1062" height="712" alt="Screenshot 2026-09-26 153358" src="https://github.com/user-attachments/assets/15bbece0-522a-4861-92e5-336a6aa1d045" />
+-<img width="2874" height="1622" alt="Screenshot 2026-09-26 153430" src="https://github.com/user-attachments/assets/7540372e-c916-4d46-bb38-42175170d7e5" />
+
 
 > **Screenshot evidence:** Replace the filenames above with your actual uploaded screenshots and add short captions describing what each screenshot demonstrates.
 
