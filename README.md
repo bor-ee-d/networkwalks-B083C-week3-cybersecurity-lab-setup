@@ -9,7 +9,7 @@ The Week 3 project work covered two password-cracking modules:
 - **W3-PM1 — Password Cracking with JTR (John the Ripper / Johnny)**
 - **W3-PM2 — Password Cracking with Networkwalks Tools**
 
-Both exercises were completed as controlled cybersecurity learning activities using the supplied protected PDF and the procedures provided in the Networkwalks project documentation. The JTR module explains how John the Ripper/Johnny can be used to recover a password from a protected PDF by working with its extracted hash. The second module uses Networkwalks' browser-based Hash Calculator and Password Cracker. fileciteturn0file0L6-L21 fileciteturn0file1L7-L26
+Both exercises were completed as controlled cybersecurity learning activities using the supplied protected PDF and the procedures provided in the Networkwalks project documentation.
 
 ---
 
@@ -21,10 +21,12 @@ networkwalks-B083C-week3-cybersecurity-lab-setup/
 ├── README.md
 │
 ├── JTR-Password-Cracking/
-│   └── README.md
+│   ├── README.md
+│   └── screenshots/
 │
 ├── Networkwalks-Password-Cracking/
-│   └── README.md
+│   ├── README.md
+│   └── screenshots/
 │
 └── Report/
     └── README.md
@@ -57,7 +59,21 @@ To gain practical experience using **John the Ripper (JTR)** and **Johnny**, its
 7. Start a new attack and wait for the password to be recovered.
 8. Use the recovered password to open the protected PDF.
 
-The Networkwalks guide specifically notes that attack time depends on computer speed and password complexity. fileciteturn0file0L45-L55 fileciteturn0file0L63-L75
+### Evidence / Screenshots
+
+Add your JTR evidence screenshots to the **`JTR-Password-Cracking/screenshots/`** folder.
+
+Suggested evidence:
+
+- `01-jtr-installation.png`
+- `02-johnny-configuration.png`
+- `03-pdf-hash-extraction.png`
+- `04-hash-file.png`
+- `05-johnny-attack.png`
+- `06-password-recovered.png`
+- `07-unlocked-pdf.png`
+
+> **Screenshot evidence:** Replace the filenames above with your actual uploaded screenshots and add short captions describing what each screenshot demonstrates.
 
 ### Key Learning
 
@@ -88,7 +104,20 @@ To understand the password-cracking workflow using Networkwalks' **Hash Calculat
 6. Wait for the tool to complete the process.
 7. Use the recovered password to open the protected PDF.
 
-The module documentation explains that the tools run in a web browser, so no separate software installation is required for this exercise. fileciteturn0file1L17-L26 fileciteturn0file1L28-L55
+### Evidence / Screenshots
+
+Add your Networkwalks password-cracking evidence screenshots to the **`Networkwalks-Password-Cracking/screenshots/`** folder.
+
+Suggested evidence:
+
+- `01-hash-calculator.png`
+- `02-pdf-hash.png`
+- `03-password-cracker.png`
+- `04-cracking-process.png`
+- `05-password-recovered.png`
+- `06-unlocked-pdf.png`
+
+> **Screenshot evidence:** Replace the filenames above with your actual uploaded screenshots and add short captions describing what each screenshot demonstrates.
 
 ### Key Learning
 
@@ -130,5 +159,5 @@ All work documented here is intended for the **Networkwalks cybersecurity intern
 
 ## References
 
-- Networkwalks Week 3 — Password Cracking with JTR project documentation. fileciteturn0file0L6-L23
-- Networkwalks Week 3 — Password Cracking with Networkwalks Tools project documentation. fileciteturn0file1L7-L26
+- Networkwalks Week 3 — Password Cracking with JTR project documentation.
+- Networkwalks Week 3 — Password Cracking with Networkwalks Tools project documentation.
