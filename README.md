@@ -68,14 +68,15 @@ Suggested evidence:
 -<img width="1058" height="698" alt="Screenshot 2026-09-24 101631" src="https://github.com/user-attachments/assets/534c5c0d-640e-4cd0-8dc7-3ffb5edb3f15" />
 -<img width="1976" height="1258" alt="Screenshot 2026-09-26 152920" src="https://github.com/user-attachments/assets/0e9d4921-955f-482e-ba3b-77e49a6af374" />
 -<img width="2398" height="1056" alt="Screenshot 2026-09-26 153053" src="https://github.com/user-attachments/assets/3c6268cc-2f31-4f36-a71c-f8c2e0b6cc36" />
-- <img width="2398" height="1056" alt="Screenshot 2026-09-26 153053" src="https://github.com/user-attachments/assets/a3b3cbce-1d02-4152-8c78-660d380e0e50" />
+-<img width="1984" height="1176" alt="Screenshot 2026-09-26 153538" src="https://github.com/user-attachments/assets/a3e7b8e7-e57b-436e-9dd0-bf3d793251eb" />
 -<img width="2134" height="1222" alt="Screenshot 2026-09-26 153239" src="https://github.com/user-attachments/assets/74259b41-bc43-4dc8-a608-88f98a01e748" />
+-<img width="2136" height="1230" alt="Screenshot 2026-09-26 153815" src="https://github.com/user-attachments/assets/4bbeada1-b849-49ac-a0df-97962f0437ae" />
 -<img width="1060" height="708" alt="Screenshot 2026-09-26 153337" src="https://github.com/user-attachments/assets/40df5130-19d3-4239-a8e4-2669cd971e07" />
+-<img width="2880" height="1648" alt="Screenshot 2026-09-26 153842" src="https://github.com/user-attachments/assets/653ffd8f-3411-4164-bd37-cfb3f63e1558" />
 -<img width="1062" height="712" alt="Screenshot 2026-09-26 153358" src="https://github.com/user-attachments/assets/15bbece0-522a-4861-92e5-336a6aa1d045" />
 -<img width="2874" height="1622" alt="Screenshot 2026-09-26 153430" src="https://github.com/user-attachments/assets/7540372e-c916-4d46-bb38-42175170d7e5" />
 
-
-> **Screenshot evidence:** Replace the filenames above with your actual uploaded screenshots and add short captions describing what each screenshot demonstrates.
+I performed the attack on Locked PDF 1 and Locked PDF 2.
 
 ### Key Learning
 
