@@ -113,14 +113,13 @@ Add your Networkwalks password-cracking evidence screenshots to the **`Networkwa
 
 Suggested evidence:
 
-- `01-hash-calculator.png`
-- `02-pdf-hash.png`
-- `03-password-cracker.png`
-- `04-cracking-process.png`
-- `05-password-recovered.png`
-- `06-unlocked-pdf.png`
+-<img width="2876" height="1652" alt="Screenshot 2026-09-26 154006" src="https://github.com/user-attachments/assets/a8a827f5-ff84-4d07-884d-abed9d472d22" />
+-<img width="2880" height="1548" alt="Screenshot 2026-09-26 154042" src="https://github.com/user-attachments/assets/cca9bdc7-1d97-401e-b039-b67a2e256094" />
+-<img width="2880" height="1550" alt="image" src="https://github.com/user-attachments/assets/7a16e274-da72-431c-92c5-e0d30a3d77f5" />
+-<img width="2880" height="1638" alt="Screenshot 2026-09-26 154049" src="https://github.com/user-attachments/assets/2b18af4b-c6a3-417e-bf12-8fba6177350e" />
+-<img width="2880" height="1642" alt="Screenshot 2026-09-26 154128" src="https://github.com/user-attachments/assets/c94aba65-dc6c-4643-befa-a71e5a96b16a" />
 
-> **Screenshot evidence:** Replace the filenames above with your actual uploaded screenshots and add short captions describing what each screenshot demonstrates.
+I performed this attack on Locked PDF 3.
 
 ### Key Learning
 
