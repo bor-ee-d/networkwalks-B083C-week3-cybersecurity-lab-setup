@@ -19,7 +19,7 @@ Use **John the Ripper (JTR)** and **Johnny** to recover the password of the prot
 
 The exercise demonstrates how a protected PDF can be tested in an authorized lab by extracting its hash and using a password-cracking tool to recover the password. The documentation notes that cracking time depends on computer speed and password complexity.
 
-Source: Networkwalks Week 3 Project Module 1. fileciteturn0file0L25-L36 fileciteturn0file0L45-L75
+Source: Networkwalks Week 3 Project Module 1. 
 
 ## Ethical Use
 
