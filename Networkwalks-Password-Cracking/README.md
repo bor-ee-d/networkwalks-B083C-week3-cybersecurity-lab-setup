@@ -18,7 +18,7 @@ Use the Networkwalks **Hash Calculator** and **Password Cracker** to recover the
 
 The exercise demonstrates a browser-based password-cracking workflow: obtain the hash from a protected file, provide the hash to the cracking tool, recover the password, and verify it by opening the protected PDF.
 
-Source: Networkwalks Week 3 Project Module 2. fileciteturn0file1L28-L55
+Source: Networkwalks Week 3 Project Module 2. 
 
 ## Ethical Use
 
