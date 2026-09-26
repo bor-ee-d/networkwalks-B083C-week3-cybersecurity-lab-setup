@@ -4,11 +4,11 @@
 
 ### W3-PM1 — Password Cracking with JTR
 
-This module covered John the Ripper and Johnny. The lab workflow involved obtaining the protected PDF, extracting its PDF hash, saving the hash in a text file, loading it into Johnny, starting an attack, and using the recovered password to open the PDF. fileciteturn0file0L45-L75
+This module covered John the Ripper and Johnny. The lab workflow involved obtaining the protected PDF, extracting its PDF hash, saving the hash in a text file, loading it into Johnny, starting an attack, and using the recovered password to open the PDF.
 
 ### W3-PM2 — Password Cracking with Networkwalks Tools
 
-This module covered Networkwalks' browser-based Hash Calculator and Password Cracker. The workflow involved uploading the protected PDF to the Hash Calculator, copying the `$pdf$` hash, supplying it to the Password Cracker, waiting for the recovered password, and validating it by opening the PDF. fileciteturn0file1L28-L58
+This module covered Networkwalks' browser-based Hash Calculator and Password Cracker. The workflow involved uploading the protected PDF to the Hash Calculator, copying the `$pdf$` hash, supplying it to the Password Cracker, waiting for the recovered password, and validating it by opening the PDF. 
 
 ## Key Concepts
 
@@ -21,7 +21,7 @@ This module covered Networkwalks' browser-based Hash Calculator and Password Cra
 - Browser-based password-cracking tools
 - Password complexity and cracking time
 
-The Networkwalks material explains that hashing scrambles plain text into a message digest and contrasts hashing with encryption. fileciteturn0file0L79-L84
+The Networkwalks material explains that hashing scrambles plain text into a message digest and contrasts hashing with encryption. 
 
 ## Learning Outcomes
 
